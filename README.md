@@ -13,3 +13,4 @@ The application employs HTML, JavaScript, Node, Inquirer and Jest. The functiona
 - When every member is incorporated, the HTML page will be generated. To see the HTML page, navigate to the "dist" folder and choose the "index.html" to be viewed in the browser.
 
 ## Walkthrough Video
+https://drive.google.com/file/d/1qI4fjPIffge_nBB1AwOdkSUictDMKctz/view
